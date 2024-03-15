@@ -1,0 +1,104 @@
+{
+  "courses": [
+      {
+          "id": 1,
+          "title": "Online Shopping Basics",
+          "slug": "online-shopping-basics",
+          "description": "Learn the fundamentals of online shopping with our comprehensive beginner's course.",
+          "price": 99.99,
+          "instructor": "John Doe",
+          "isFeatured": true,
+          "image": "/courses/online-shopping.jpg"
+      },
+      {
+          "id": 2,
+          "title": "E-commerce for Beginners",
+          "slug": "ecommerce-for-beginners",
+          "description": "Start your journey in e-commerce with foundational skills taught by expert instructors.",
+          "price": 109.99,
+          "instructor": "Jane Smith",
+          "isFeatured": false,
+          "image": "/courses/ecommerce.jpg"
+      },
+      {
+          "id": 3,
+          "title": "Advanced Shopping Techniques",
+          "slug": "advanced-shopping-techniques",
+          "description": "Enhance your online shopping experience with advanced techniques for intermediate to advanced learners.",
+          "price": 119.99,
+          "instructor": "Emily Johnson",
+          "isFeatured": true,
+          "image": "/courses/advanced-shopping.jpg"
+      },
+      {
+          "id": 4,
+          "title": "Mastering Product Selection",
+          "slug": "mastering-product-selection",
+          "description": "Master the art of product selection in online shopping with our comprehensive course covering all skill levels.",
+          "price": 129.99,
+          "instructor": "Mike Brown",
+          "isFeatured": false,
+          "image": "/courses/product-selection.jpg"
+      },
+      {
+          "id": 5,
+          "title": "Negotiation Strategies",
+          "slug": "negotiation-strategies",
+          "description": "Learn effective negotiation strategies for getting the best deals while online shopping.",
+          "price": 139.99,
+          "instructor": "Chris Davis",
+          "isFeatured": false,
+          "image": "/courses/negotiation.jpg"
+      },
+      {
+          "id": 6,
+          "title": "Digital Marketing Fundamentals",
+          "slug": "digital-marketing-fundamentals",
+          "description": "Dive into digital marketing for online businesses with this introductory course covering the basics of marketing strategies.",
+          "price": 149.99,
+          "instructor": "Alex Wilson",
+          "isFeatured": true,
+          "image": "/courses/digital-marketing.jpg"
+      },
+      {
+          "id": 7,
+          "title": "Consumer Behavior Analysis",
+          "slug": "consumer-behavior-analysis",
+          "description": "Learn to analyze consumer behavior to optimize your online shopping experience.",
+          "price": 159.99,
+          "instructor": "Samantha Miller",
+          "isFeatured": false,
+          "image": "/courses/consumer-behavior.jpg"
+      },
+      {
+          "id": 8,
+          "title": "E-commerce Platforms",
+          "slug": "ecommerce-platforms",
+          "description": "Explore various e-commerce platforms and learn to choose the right one for your online store.",
+          "price": 169.99,
+          "instructor": "Luke Harris",
+          "isFeatured": true,
+          "image": "/courses/ecommerce-platforms.jpg"
+      },
+      {
+          "id": 9,
+          "title": "Supply Chain Management",
+          "slug": "supply-chain-management",
+          "description": "Gain insights into supply chain management strategies for successful online retail operations.",
+          "price": 179.99,
+          "instructor": "Grace Lee",
+          "isFeatured": false,
+          "image": "/courses/supply-chain.jpg"
+      },
+      {
+          "id": 10,
+          "title": "Effective Customer Service",
+          "slug": "effective-customer-service",
+          "description": "Learn how to provide exceptional customer service in the online shopping industry.",
+          "price": 189.99,
+          "instructor": "Ethan Moore",
+          "isFeatured": true,
+          "image": "/courses/customer-service.jpg"
+      }
+  ]
+}
